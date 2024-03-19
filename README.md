@@ -31,7 +31,7 @@ NeuroMesh welcomes contributions from the community. If you're interested in con
 NeuroMesh is released under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries or support related to NeuroMesh, please contact [neuromesh@example.com](mailto:neuromesh@example.com).
+For any inquiries or support related to NeuroMesh, please contact [support@neuromesh.com](mailto:support@neuromesh.com).
 
 ## Acknowledgments
 We acknowledge the contributions of the open-source community and the support received from the Pi Network ecosystem in the development of NeuroMesh.
